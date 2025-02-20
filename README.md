@@ -8,3 +8,8 @@
 ```
 python main.py
 ```
+
+
+- 화면 예시
+
+![예시](./images/test.png)
